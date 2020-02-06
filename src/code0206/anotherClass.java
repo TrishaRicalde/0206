@@ -1,6 +1,6 @@
 package code0206;
 
-public class testClass {
+public class anotherClass {
 
 }
 
